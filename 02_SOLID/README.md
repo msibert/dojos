@@ -19,6 +19,10 @@ Ej: [{nombre:”Lab A”, capacidad:5},{nombre:”Lab B”, capacidad:15}] -> "A
 
 Programación orientada a objetos + TDD
 
+### Lenguaje
+
+Weapon of choice ![technology JAVA 8](https://img.shields.io/badge/technology-Java%208-green.svg)
+
 ### Agenda
 
 1. Planteo de problema (5 minutos)
