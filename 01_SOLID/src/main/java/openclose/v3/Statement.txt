@@ -1,0 +1,2 @@
+Charlie a week later  calls us and asks: “extending the AreaCalculator class to
+also calculate the area of triangles isn’t very hard, is it?”.

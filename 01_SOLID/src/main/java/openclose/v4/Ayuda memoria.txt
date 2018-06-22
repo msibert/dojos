@@ -1,0 +1,4 @@
+Por que se declaran las variables
+    public en Triangle
+    privada en Circle
+    private final en Rectangle

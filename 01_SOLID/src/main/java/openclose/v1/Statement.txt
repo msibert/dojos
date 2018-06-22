@@ -1,0 +1,1 @@
+Charlie wants us to build an application that can calculate the total area of a collection of rectangles.

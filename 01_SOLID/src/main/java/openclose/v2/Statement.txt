@@ -1,0 +1,2 @@
+Charlie wonders if we couldn’t extend it so that it could calculate the area
+of not only rectangles but of circles as well.
