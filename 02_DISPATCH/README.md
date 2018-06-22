@@ -21,7 +21,7 @@ Programación orientada a objetos + TDD
 
 ### Lenguaje
 
-Weapon of choice ![technology JAVA 8](https://img.shields.io/badge/technology-Java%208-green.svg)
+![technology JAVA 8](https://img.shields.io/badge/technology-Java%208-green.svg)
 
 ### Agenda
 
