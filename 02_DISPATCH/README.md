@@ -1,6 +1,6 @@
 # Modelo de problema
 
-##Asignación de aulas
+## Asignación de aulas
 
 En la Universidad de la Matanza, se dispone de un lugar llamado CAU (Centro Atención Unificado), 
 el cual se encarga de asignar aulas y laboratorios bajo solicitud de los docentes. Dada una solicitud, 
