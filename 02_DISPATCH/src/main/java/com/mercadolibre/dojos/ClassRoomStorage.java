@@ -2,6 +2,7 @@ package com.mercadolibre.dojos;
 
 import java.util.HashSet;
 import java.util.Set;
+import java.util.stream.Stream;
 
 public class ClassRoomStorage {
 
@@ -17,5 +18,10 @@ public class ClassRoomStorage {
 
         return this.classRooms.stream()
                 .anyMatch(room -> room.equals(classRoom));
+    }
+
+
+    public Stream<ClassRoom> asStream() {
+        return this.classRooms.stream();
     }
 }
